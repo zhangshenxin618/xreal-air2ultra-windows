@@ -1,0 +1,7 @@
+# Versions used for local validation on Windows x64 / Python 3.13.
+cffi==2.1.1
+imageio-ffmpeg==0.6.0
+numpy==2.5.4
+opencv-python==5.0.0.93
+pycparser==3.11
+sounddevice==0.5.6
